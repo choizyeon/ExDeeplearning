@@ -8,6 +8,7 @@ out*/
 *.zip
 out/
 *.mat
+pretrained-model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
